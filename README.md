@@ -1,31 +1,28 @@
 # css
-!DOCTYPE html>
+<!DOCTYPE html>
 <html lang="en">
-
 <head>
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Document</title>
     <style>
-        h1 {
-            color: wheat;
-            background-color: rgb(65, 3, 65);
-        }
-
-        body {
-            background-image: url("jeno.jpg");
-            background-color: darkblue;
-            background-repeat: no-repeat;
-            background-position: right top;
-        }
-    </style>
+    * {
+        font-family: 'Courier New', Courier, monospace;
+    }
+    table .merah {
+    color: red;
+}
+</style>
 </head>
-
 <body>
-    <h1>18DDT19F1004,ARIESSA QASANDRA BINTI KAMARUDDIN , DDT4D</h1>
-     <h1>18DDT19F1004,ARIESSA QASANDRA BINTI KAMARUDDIN , DDT4D</h1>
+    <h1>yo yo yo</h1>
+    <table>
 
+        <tr>1</tr>
+        <tr></tr>
+        <tr></tr>
+        <td></td>
+    </table>
 </body>
-
 </html>
