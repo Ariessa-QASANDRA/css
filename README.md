@@ -16,7 +16,6 @@
 </style>
 </head>
 <body>
-    <h1>Ariessa Qasandra binti Kamaruddin DDT4D  </h1>
     <table>
 
         <tr>1</tr>
