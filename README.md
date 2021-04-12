@@ -8,7 +8,7 @@
     <title>Document</title>
     <style>
     * {
-        font-family: 'Courier New', Courier, monospace;
+        font-family: 'Arial';
     }
     table .merah {
     color: red;
